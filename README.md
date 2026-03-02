@@ -28,3 +28,9 @@ source .venv/bin/activate   # Mac/Linux
 # or: source .venv/Scripts/activate  (Windows Git Bash)
 pip install -r requirements-prework.txt
 ```
+
+## How to run 
+
+1. **Activate Environment:** Run `source .venv/Scripts/activate` (or `.\.venv\Scripts\activate` on Windows).
+2. **Explore Files:** Navigate to the `.github` and `docs` folders to see the project configuration.
+3. **Verify Git Status:** Run `git status` to ensure you are on the `pr-05-pr-hygiene` branch.
