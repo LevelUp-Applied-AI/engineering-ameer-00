@@ -15,5 +15,5 @@ This is to satisfy the Phase 3 PR Hygiene requirements and ensure all code is re
 3. Read the updated README.md file.
 
 ## Checklist
-- [] My code follows the project style.
-- [] All files are in their correct directories.
+- [ ] My code follows the project style.
+- [ ] All files are in their correct directories.
